@@ -14,8 +14,7 @@ JATE
 ## Description
 Just another Text Editor. a pop up text editor handy in all coding scenarios!
 ## Installation
-npm i then node index.js to run the readme gen
-## Usage
+npm i then npm start:dev to get the app running 
 Useful to make any edits on code needed handy on the fly. Extremely  useful if you arent paying full attention and would like to take a quick note aswell and refer back to it! 
 ## Contributers
 as G-Eazy said " Me myself and I
